@@ -25,6 +25,7 @@
     "autoload-dev": {
         "psr-4": {
             "Acme\\": "packages/Acme/",
+            "TaskManagement\\": "packages/TaskManagement/",
             "Tests\\": "tests/"
         }
     },
